@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "profile": "ab -k -c 20 -n 200 'http://localhost3000/"
   },
   "dependencies": {
     "body-parser": "~1.17.1",
