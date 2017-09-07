@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/dylanpinn/FIT3140-Lab07#readme",
   "devDependencies": {
-    "eslint": "^4.6.1"
+    "eslint": "^4.6.1",
+    "express-generator": "^4.15.0"
   }
 }
