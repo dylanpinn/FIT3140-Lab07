@@ -1,0 +1,27 @@
+{
+  "name": "fit3140-lab07",
+  "version": "1.0.0",
+  "description": "FIT3140 Lab 07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanpinn/FIT3140-Lab07.git"
+  },
+  "keywords": [
+    "FIT3140",
+    "Lab",
+    "07"
+  ],
+  "author": "Dylan Pinn <dcpin3@student.monash.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanpinn/FIT3140-Lab07/issues"
+  },
+  "homepage": "https://github.com/dylanpinn/FIT3140-Lab07#readme",
+  "devDependencies": {
+    "eslint": "^4.6.1"
+  }
+}
