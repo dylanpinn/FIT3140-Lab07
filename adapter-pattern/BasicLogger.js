@@ -11,16 +11,16 @@ function BasicLogger(name) {
       return 'BasicLogger';
     },
     i: function information(message) {
-      console.info(LOG_HEADER + message + '- INFORMATION');
+      console.info(LOG_HEADER + message + ' - INFORMATION');
     },
     d: function debg(message) {
-      console.log(LOG_HEADER + message + '- DEBG');
+      console.log(LOG_HEADER + message + ' - DEBG');
     },
     w: function w(message) {
-      console.warn(LOG_HEADER + message + '- W');
+      console.warn(LOG_HEADER + message + ' - W');
     },
     e: function err(message) {
-      console.error(LOG_HEADER + message + '- ERR');
+      console.error(LOG_HEADER + message + ' - ERR');
     }
   }
 }
